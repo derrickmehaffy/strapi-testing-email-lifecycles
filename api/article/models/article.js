@@ -1,5 +1,4 @@
 "use strict";
-const { default: createStrapi } = require("strapi");
 const { sanitizeEntity } = require("strapi-utils");
 
 module.exports = {
